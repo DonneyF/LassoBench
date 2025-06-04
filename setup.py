@@ -14,6 +14,5 @@ setup(name='LassoBench',
           'scipy>=0.18.0',
           'scikit-learn>=0.21',
           'seaborn>=0.7',
-          'GPy>=1.9.2',
           'pyDOE>=0.3.8'],
       )
