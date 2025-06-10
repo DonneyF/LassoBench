@@ -5,7 +5,7 @@ setup(name='LassoBench',
       packages=['LassoBench'],
       install_requires=[
           'sparse-ho @ https://github.com/QB3/sparse-ho/archive/master.zip',
-          'celer',
+          'celer @ git+https://github.com/mathurinm/celer.git@eef3bb5',
           'pyDOE',
           'libsvmdata',
           'ax-platform',
